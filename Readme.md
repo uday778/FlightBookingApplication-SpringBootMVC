@@ -1,6 +1,6 @@
 # Flight Booking Application - Spring Boot MVC
 
-{📌 Features
+📌 Features
 
 ✅ Built with Spring Boot 3.3.4
 
@@ -13,4 +13,5 @@
 ✅ Search flights by Source and Destination
 
 ✅ Uses JSTL for rendering data in JSP
+
 
